@@ -95,11 +95,6 @@ cd stock-price-prediction-rnn
 
 ---
 
-## 🔗 GitHub Repository
-
-👉 Add your GitHub repository link here
-
----
 
 ## 🙌 Acknowledgements
 
